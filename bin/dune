@@ -1,0 +1,6 @@
+(executables
+ (names
+  problem_0001
+ )
+ (libraries core))
+

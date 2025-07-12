@@ -1,6 +1,3 @@
 (executables
- (names
-  problem_0001
-  problem_0002)
+ (names problem_0001 problem_0002)
  (libraries core))
-
